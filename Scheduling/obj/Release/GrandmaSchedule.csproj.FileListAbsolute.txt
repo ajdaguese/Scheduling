@@ -1,0 +1,17 @@
+C:\Users\Alex\source\repos\GrandmaSchedule\GrandmaSchedule\bin\Release\schedule.db
+C:\Users\Alex\source\repos\GrandmaSchedule\GrandmaSchedule\bin\Release\GrandmaSchedule.exe.config
+C:\Users\Alex\source\repos\GrandmaSchedule\GrandmaSchedule\bin\Release\GrandmaSchedule.exe
+C:\Users\Alex\source\repos\GrandmaSchedule\GrandmaSchedule\bin\Release\GrandmaSchedule.pdb
+C:\Users\Alex\source\repos\GrandmaSchedule\GrandmaSchedule\bin\Release\Dapper.dll
+C:\Users\Alex\source\repos\GrandmaSchedule\GrandmaSchedule\bin\Release\System.Data.SQLite.dll
+C:\Users\Alex\source\repos\GrandmaSchedule\GrandmaSchedule\bin\Release\Dapper.xml
+C:\Users\Alex\source\repos\GrandmaSchedule\GrandmaSchedule\bin\Release\System.Data.SQLite.xml
+C:\Users\Alex\source\repos\GrandmaSchedule\GrandmaSchedule\bin\Release\System.Data.SQLite.dll.config
+C:\Users\Alex\source\repos\GrandmaSchedule\GrandmaSchedule\obj\Release\GrandmaSchedule.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\GrandmaSchedule\GrandmaSchedule\obj\Release\GrandmaSchedule.Form1.resources
+C:\Users\Alex\source\repos\GrandmaSchedule\GrandmaSchedule\obj\Release\GrandmaSchedule.Properties.Resources.resources
+C:\Users\Alex\source\repos\GrandmaSchedule\GrandmaSchedule\obj\Release\GrandmaSchedule.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\GrandmaSchedule\GrandmaSchedule\obj\Release\GrandmaSchedule.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\GrandmaSchedule\GrandmaSchedule\obj\Release\GrandmaSchedule.csproj.CopyComplete
+C:\Users\Alex\source\repos\GrandmaSchedule\GrandmaSchedule\obj\Release\GrandmaSchedule.exe
+C:\Users\Alex\source\repos\GrandmaSchedule\GrandmaSchedule\obj\Release\GrandmaSchedule.pdb
